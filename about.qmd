@@ -1,5 +1,23 @@
 ---
-title: "About"
+title: "Hakkımda"
+about:
+  template: jolla
+  image: eda-firlangec.png
+  image-alt: "Eda'nın Resmi"
+  image-shape: round
+  links: 
+    - text: "Eda İklim'i Instagram'da Bulun"
+      icon: instagram
+      href: https://instagram.com/edaiklim
+      target: "_blank"
 ---
 
-About this site
+
+::: {#tbl-deneme}
+
+content
+
+caption
+
+:::
+

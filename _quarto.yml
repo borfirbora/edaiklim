@@ -10,16 +10,18 @@ lang: "tr"
 website:
   title: "Eda İklim"
   navbar:
+    logo:
+      alt: "Eda İklim Logosu"
+      path: resimler/logo.png
     left:
       - href: index.qmd
-        text: Home
+        text: "Anasayfa"
       - about.qmd
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - litera
     css: styles.css
     toc: true
 

@@ -1,5 +1,7 @@
 ---
-title: "website"
+title: "Eda İklim"
+title-prefix: "Ailenizin Havası Değişecek!"
+subtitle: "Ailenizin Havası Değişecek!"
 ---
 
 This is a Quarto website.
