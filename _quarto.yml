@@ -5,8 +5,10 @@ project:
   - .nojekyll
   - CNAME
 
+lang: "tr"
+
 website:
-  title: "website"
+  title: "Eda İklim"
   navbar:
     left:
       - href: index.qmd
